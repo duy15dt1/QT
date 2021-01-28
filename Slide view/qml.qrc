@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DocumentWindow.qml</file>
+        <file>main.qml</file>
+        <file>Current.qml</file>
+        <file>UserStats.qml</file>
+        <file>TotalStats.qml</file>
+    </qresource>
+</RCC>
